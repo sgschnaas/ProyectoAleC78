@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+  }  
+  .titulo
+  {
+    font-weight:bold;
+    font-size:30px;
+  }
+  
+
+  #album
+  {
+   
+    border-bottom: 3px solid #689F38;   
+    padding: 2px;
+    
+    height: 400px;
+  }
